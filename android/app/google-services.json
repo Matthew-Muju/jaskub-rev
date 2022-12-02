@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "133789358060",
+    "project_id": "jaskub-rev",
+    "storage_bucket": "jaskub-rev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133789358060:android:e1c456244ebd794a2b52c9",
+        "android_client_info": {
+          "package_name": "com.jaskub_rev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133789358060-dhn65rpr3qltd8lkg5a3skbglabon338.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jaskub_rev",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "133789358060-lt20e9vobmaq6pjjvv18ef7101c3pbe9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9_C4YGfSshymQ3T4f34QkqjgBEyiSkP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133789358060-lt20e9vobmaq6pjjvv18ef7101c3pbe9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
